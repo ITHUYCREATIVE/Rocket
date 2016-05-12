@@ -42,7 +42,8 @@ h6 {
 	font-size: 2em;
 } 
 
-header , #about {
+header , #about 
+{
 	text-align: center;
 	color: #fff;
 	background-color: #18bc9c;
